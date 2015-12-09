@@ -11,3 +11,9 @@ Create the file in the folder anywhere in the project
 git add .\test\mocha.opts
 git commit -m "Added mocha.opts to force use"
 git push -u origin master (this pushes the new file to github)
+
+git checkout notes.txt
+Make changes
+Save the changes
+git commit -m "add comment"
+git push -u origin master
