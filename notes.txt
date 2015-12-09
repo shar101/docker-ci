@@ -1,0 +1,5 @@
+#### Once in your source root folder do the following
+git init
+git add -A
+git commit -m "Initial Commit"
+git remote add origin https://github.com/shar101/docker-ci.git
